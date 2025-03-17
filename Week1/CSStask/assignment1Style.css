@@ -1,0 +1,29 @@
+* {
+    font-family: helvetica, serif;
+}
+
+a {
+    color: Crimson;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+img {
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table tr {
+    background-color: lightgreen;
+}
+
+table tr:nth-child(even) {
+    background-color: yellowgreen;
+}
